@@ -38,12 +38,16 @@
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech |
-|---|---|---|
-| 🏥 [Healthcare Risk Prediction](https://github.com/RajBhadani/Data_Mining_Project/blob/main/Early_Stage_Diabetes_Risk_Prediction.ipynb) | Classifies high-risk patients using clinical features | Random Forest, Scikit-learn |
-| 🛒 [Customer Segmentation](https://github.com/RajBhadani/Projects-Data_Science_and_Analytics/blob/main/Customer_Segmentation_Using_K_Means.ipynb) | Unsupervised clustering for e-commerce targeting | K-Means, Pandas |
-| 📈 [Sales Forecasting](https://github.com/RajBhadani/Projects-Data_Science_and_Analytics/blob/main/Sales_Forecasting_with_Linear_Regression.ipynb) | Regression-based forecasting with trend analysis | Regression, Matplotlib |
-| 🌍 [COVID19 Data Analysis](https://github.com/RajBhadani/Projects-Data_Science_and_Analytics/blob/main/COVID_19_Data_Analysis.ipynb) | EDA on COVID-19 datasets to detect patterns & anomalies | Python, Power BI |
+| # | Project | Description | Tools |
+|---|---|---|---|
+| 🛒 | [Customer Segmentation Using K-Means](#) | Identified customer groups from transaction data to enable personalized marketing | Python, Scikit-learn, Pandas, Matplotlib |
+| 📊 | [E-Commerce Data Insights](#) | EDA & visual dashboards revealing revenue trends and product performance | Python, Power BI, Excel, Pandas |
+| 📈 | [Sales Forecasting with Linear Regression](#) | Predicted future sales from historical data to support demand planning | Python, Scikit-learn, Pandas, Matplotlib |
+| 🎓 | [Student Performance Analytics Dashboard](#) | Interactive dashboard identifying factors affecting academic outcomes | Python, Power BI, Pandas |
+| 🌍 | [Greenhouse Gas Emission Prediction](#) | Predictive models on environmental datasets for sustainability analysis | Python, ML, Data Visualization |
+| 🦠 | [COVID-19 Data Analysis & Prediction](#) | Time-series analysis and forecasting of global pandemic case trends | Python, Pandas, Matplotlib, ML |
+| 🔗 | [Social Network Analysis in Public Health](#) | Applied SNA centrality metrics to reveal hidden health & security relationships | Python, Network Analysis |
+| 🏥 | [Early Stage Diabetes Risk Prediction](#) | Classification model on patient indicators for early diabetes detection | Python, Scikit-learn, Pandas |
 
 > Replace `#` with your actual repo URLs after uploading.
 
@@ -62,12 +66,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajbhadani&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajbhadani&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RajBhadani&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajBhadani&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajbhadani&theme=tokyonight&hide_border=true" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RajBhadani&theme=tokyonight&hide_border=true" width="60%" />
 </p>
 
 ---
@@ -76,9 +80,11 @@
 
 <p>
   <a href="https://www.linkedin.com/in/raj-bhadani-b4b729258/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/RajBhadani"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="mailto:rajbhadani9897@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
+<p align="center"><i>"Building intelligent systems, one model at a time."</i></p>
 <p align="center"><i>"Building intelligent systems, one model at a time."</i></p>
