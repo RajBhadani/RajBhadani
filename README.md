@@ -87,4 +87,3 @@
 ---
 
 <p align="center"><i>"Building intelligent systems, one model at a time."</i></p>
-<p align="center"><i>"Building intelligent systems, one model at a time."</i></p>
