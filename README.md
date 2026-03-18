@@ -40,10 +40,10 @@
 
 | Project | Description | Tech |
 |---|---|---|
-| 🏥 [Healthcare Risk Prediction](#) | Classifies high-risk patients using clinical features | Random Forest, Scikit-learn |
-| 🛒 [Customer Segmentation](#) | Unsupervised clustering for e-commerce targeting | K-Means, Pandas |
-| 📈 [Sales Forecasting](#) | Regression-based forecasting with trend analysis | Regression, Matplotlib |
-| 🌍 [Climate Data Analysis](#) | EDA on climate datasets to detect patterns & anomalies | Python, Power BI |
+| 🏥 [Healthcare Risk Prediction](https://github.com/RajBhadani/Data_Mining_Project/blob/main/Early_Stage_Diabetes_Risk_Prediction.ipynb) | Classifies high-risk patients using clinical features | Random Forest, Scikit-learn |
+| 🛒 [Customer Segmentation](https://github.com/RajBhadani/Projects-Data_Science_and_Analytics/blob/main/Customer_Segmentation_Using_K_Means.ipynb) | Unsupervised clustering for e-commerce targeting | K-Means, Pandas |
+| 📈 [Sales Forecasting](https://github.com/RajBhadani/Projects-Data_Science_and_Analytics/blob/main/Sales_Forecasting_with_Linear_Regression.ipynb) | Regression-based forecasting with trend analysis | Regression, Matplotlib |
+| 🌍 [COVID19 Data Analysis](https://github.com/RajBhadani/Projects-Data_Science_and_Analytics/blob/main/COVID_19_Data_Analysis.ipynb) | EDA on COVID-19 datasets to detect patterns & anomalies | Python, Power BI |
 
 > Replace `#` with your actual repo URLs after uploading.
 
