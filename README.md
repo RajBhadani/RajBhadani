@@ -49,7 +49,6 @@
 | 🔗 | [Social Network Analysis in Public Health](#) | Applied SNA centrality metrics to reveal hidden health & security relationships | Python, Network Analysis |
 | 🏥 | [Early Stage Diabetes Risk Prediction](#) | Classification model on patient indicators for early diabetes detection | Python, Scikit-learn, Pandas |
 
-> Replace `#` with your actual repo URLs after uploading.
 
 ---
 
